@@ -1,5 +1,5 @@
 
-# 🧠 Simple Transfer Learning Project with VGG16
+# 🧠 Simple Transfer Learning Project with Pretrained model eg: VGG16,ResNet50...
 
 This project shows how to train image classification models using **transfer learning**.
 
